@@ -19,3 +19,9 @@ A machine learning project to analyze and classify sentiments of tweets as posit
    ```bash
      git clone https://github.com/Sn0wflame77/Sentiment-analysis-project.git
 
+---
+
+### 📓 Notebook
+You can view the live Jupyter notebook here: [Twitter sentiment analysis_live (1).ipynb](Twitter%20sentiment%20analysis_live%20(1).ipynb)
+
+
