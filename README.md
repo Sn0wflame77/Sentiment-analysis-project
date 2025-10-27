@@ -17,4 +17,5 @@ A machine learning project to analyze and classify sentiments of tweets as posit
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<Snowflame77>/Sentiment-analysis-project.git
+     git clone https://github.com/Sn0wflame77/Sentiment-analysis-project.git
+
